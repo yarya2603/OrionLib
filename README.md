@@ -1,9 +1,9 @@
 # Orion Library
-This documentation is for the stable release of Orion Library.
+Documention by yarya2603
 
 ## Booting the Library
 ```lua
-local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/CoolManYesYes/OrionLib/refs/heads/main/source.txt')))()
+local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/yarya2603/OrionLib/refs/heads/main/source.txt')))()
 ```
 
 
