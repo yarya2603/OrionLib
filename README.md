@@ -3,7 +3,7 @@ Documention by yarya2603
 
 ## Booting the Library
 ```lua
-local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/yarya2603/OrionLib/refs/heads/main/source.txt')))()
+local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/Seven7-lua/Roblox/refs/heads/main/Librarys/Orion/Orion.lua')))()
 ```
 
 
