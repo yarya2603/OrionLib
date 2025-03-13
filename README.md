@@ -10,15 +10,8 @@ local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/yar
 
 ## Creating a Window
 ```lua
-local Window = OrionLib:MakeWindow({
-    Name = "Example",
-    HidePremium = false,
-    SaveConfig = false,           
-    ConfigFolder = nil,       
-    IntroEnabled = true,
-    IntroText = "Welcome, " .. game.Players.LocalPlayer.Name,
-    IntroIcon = "rbxassetid://82778010291487"
-})
+local Window = OrionLib:MakeWindow({Name = "Title of the library", HidePremium = false, SaveConfig = true, ConfigFolder = "OrionTest"})
+
 --[[
 Name = <string> - The name of the UI.
 HidePremium = <bool> - Whether or not the user details shows Premium status or not.
